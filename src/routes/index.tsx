@@ -5,9 +5,9 @@ export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
       { title: "Happy Birthday, Nay 🌱" },
-      { name: "description", content: "A little pixel meadow for Nayla Faiza Labiba's 22nd birthday — from Iyo, with love." },
+      { name: "description", content: "a lil gift for nay's 22nd birthday from iyow :3." },
       { property: "og:title", content: "Happy Birthday, Nay 🌱" },
-      { property: "og:description", content: "A pixel world made just for Nay's 22nd birthday." },
+      { property: "og:description", content: "A lil gift made just for Nay's 22nd birthday." },
     ],
   }),
   component: BirthdayPage,
@@ -104,7 +104,7 @@ function Gate({ onEnter }: { onEnter: () => void }) {
     <div className="relative min-h-screen flex items-center justify-center px-6 py-16">
       <Sparkles />
       <div className="relative max-w-lg w-full text-center bg-card pixel-border p-8 md:p-12 anim-pop">
-        <div className="font-pixel text-xs md:text-sm text-primary mb-4">✦ a wild website appears ✦</div>
+        <div className="font-pixel text-xs md:text-sm text-primary mb-4">✦ TETETERETETET ✦</div>
         <h1 className="font-pixel text-2xl md:text-4xl leading-relaxed text-foreground mb-6">
           ARE YOU<br/>NAY?
         </h1>
@@ -116,7 +116,7 @@ function Gate({ onEnter }: { onEnter: () => void }) {
         </p>
         <button onClick={onEnter} className="pixel-btn anim-float">YES, IT'S ME →</button>
         <p className="mt-6 font-retro text-lg" style={{ color: "var(--pink-deep)" }}>
-          a tiny gift from iyow :3
+          girl go to spotify and play birthday song OKAY
         </p>
       </div>
     </div>
@@ -312,7 +312,7 @@ function Quiz({ onPass }: { onPass: () => void }) {
         <Sparkles count={24} />
         <div className="relative">
           <div className="text-6xl md:text-8xl mb-4 anim-pop">🎉</div>
-          <h3 className="font-pixel text-xl md:text-3xl anim-title-pop mb-4">YAY! YOU PASSED!</h3>
+          <h3 className="font-pixel text-xl md:text-3xl anim-title-pop mb-4">YAYYYY! YOU PASSED!</h3>
           <p className="font-retro text-2xl text-muted-foreground">unlocking the rest of your world…</p>
         </div>
       </div>
@@ -611,7 +611,14 @@ const GOOD = [
   "you care, like REALLY CARE.",
   "smartest bitch around",
   "pussy good.",
-  "you make me want to be a better friend, esp for you.",
+  "COOKING GOOD.",
+  "TOO INDEPENDENT.",
+  "TRILINGUAL QUEEN."
+  "supportive, support women right and women wrong.",
+  "A BEAUTIFUL ARTIST",
+  "SHAKESPEAR PUN MINDER LIAT TULISANMU",
+  "HARDWORKER. A SINGLE MOM WHO WORK TWO JOB~",
+  "MOTHERRRRRRRRR",
 ];
 
 /* ---------------- MAIN ---------------- */
