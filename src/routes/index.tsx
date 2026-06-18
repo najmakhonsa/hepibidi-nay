@@ -872,6 +872,15 @@ function BirthdayPage() {
                 for you dimasa depan. i hope your war is soon over. I LITERALLY CRYING TYPING THIS.
               </p>
               <p>
+                Enough ah. you deserve all the kind good things in this world. dont fucking skip makan.
+                enough caring for others, you deserve to treat yourself the same. BE KIND to yourself.
+                BE KIND TO MY WOMAN. you deserve to rest okay? no feeling sorry bullshit. 
+                YOU NEED TO TAKE CARE OF YOUR BEING TOO. mentally, physically, spiritally, EVERYTHING.
+                dont forget to rest, to eat, to drink, to sleep, to be happy. but if you need to cry its okay. 
+                you dont have to be strong all the time. you can ask for help. you can be
+                vulnerable, you can lean on us. 
+              </p>
+              <p>
                 May your 22nd year be peace, full of everything you deserve. May your dreams keep moving. 
                 May you stay healthy. May you stay loved and surrounded by good, good people. May you
                 always happy. thank you.
