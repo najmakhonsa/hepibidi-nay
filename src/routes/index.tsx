@@ -613,7 +613,7 @@ const GOOD = [
   "pussy good.",
   "COOKING GOOD.",
   "TOO INDEPENDENT.",
-  "TRILINGUAL QUEEN."
+  "TRILINGUAL QUEEN.",
   "supportive, support women right and women wrong.",
   "A BEAUTIFUL ARTIST",
   "SHAKESPEAR PUN MINDER LIAT TULISANMU",
