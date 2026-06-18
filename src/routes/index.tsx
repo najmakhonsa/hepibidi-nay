@@ -683,7 +683,7 @@ function BirthdayPage() {
           <div className="font-pixel text-[10px] md:text-xs text-primary mb-2">▸ mini quest 01</div>
           <h2 className="font-pixel text-xl md:text-3xl text-foreground">unlock your world 🔐</h2>
           <p className="font-retro text-xl text-muted-foreground mt-2">
-            get every answer right to open the rest of the page. (a wrong answer just resets the question — no pressure 💚)
+            get every answer right to open the rest of the page. (dw if u wrong, itll reset the question BUT U NEVER WRONG POOKIE)
           </p>
         </div>
         <Quiz onPass={() => { setUnlocked(true); scrollToUnlocked(); }} />
@@ -713,7 +713,7 @@ function BirthdayPage() {
               <p className="font-retro text-xl text-muted-foreground mt-2">swipe through and tap any photo to zoom.</p>
             </div>
           </Reveal>
-          <Reveal delay={120}><SwipeGallery ids={PHOTOS.nay} label="nay being nay" /></Reveal>
+          <Reveal delay={120}><SwipeGallery ids={PHOTOS.nay} label="wanitaku" /></Reveal>
         </section>
 
         {/* SOBAK */}
@@ -725,8 +725,8 @@ function BirthdayPage() {
               <p className="font-retro text-xl text-muted-foreground mt-2">KAPAN KITA UPDATE FOTO.</p>
             </div>
           </Reveal>
-          <Reveal delay={100}><SwipeGallery ids={PHOTOS.sobakOld} label="sobak: back then" /></Reveal>
-          <Reveal delay={150}><SwipeGallery ids={PHOTOS.sobakNew} label="sobak: right now" /></Reveal>
+          <Reveal delay={100}><SwipeGallery ids={PHOTOS.sobakOld} label="sobak kucrit" /></Reveal>
+          <Reveal delay={150}><SwipeGallery ids={PHOTOS.sobakNew} label="sobak glowup" /></Reveal>
         </section>
 
         {/* IYO + NAY */}
@@ -734,11 +734,11 @@ function BirthdayPage() {
           <Reveal>
             <div className="text-center mb-8">
               <div className="font-pixel text-[10px] md:text-xs text-primary mb-2">▸ chapter 03</div>
-              <h2 className="font-pixel text-xl md:text-3xl text-foreground">iyo & nay</h2>
+              <h2 className="font-pixel text-xl md:text-3xl text-foreground">iyow & nay</h2>
               <p className="font-retro text-xl text-muted-foreground mt-2">MASA AKU CUMA NEMU FOTO KITA DUA</p>
             </div>
           </Reveal>
-          <Reveal delay={120}><SwipeGallery ids={PHOTOS.iyoNay} label="us, baby version" /></Reveal>
+          <Reveal delay={120}><SwipeGallery ids={PHOTOS.iyoNay} label="cimit" /></Reveal>
         </section>
 
         {/* PROUD */}
